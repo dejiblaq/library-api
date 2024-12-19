@@ -27,5 +27,4 @@ Contributions are welcome! Please follow these steps to contribute:
 * Push to the branch (`git push origin feature/AmazingFeature`)
 * Open a pull request
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/edwisor01/ELibrary_API/blob/main/LICENSE) file for details.
+
